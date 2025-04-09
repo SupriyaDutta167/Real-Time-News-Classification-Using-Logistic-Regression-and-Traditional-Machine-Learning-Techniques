@@ -75,5 +75,3 @@ In today’s digital age, the sheer volume of online news makes manual classific
 
 ---
 
-## 📁 Project Structure
-
