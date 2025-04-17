@@ -44,9 +44,9 @@ In today’s digital age, the sheer volume of online news makes manual classific
 
 ## 📊 Dataset
 
-- **Source**: [Mention your dataset source like Kaggle, BBC News Dataset, etc.]
-- **Features**: News Headline/Content and its Category
-- **Size**: [Mention number of records if known]
+- **Source**: Kaggle Indexed News Dataset
+- **Features**: Fake news and Real news
+- **Size**: 25617 Articles
 
 ---
 
