@@ -78,3 +78,4 @@ In today’s digital age, the sheer volume of online news makes manual classific
 © 2025 Supriya Dutta. All rights reserved.
 This project is developed and maintained by Supriya Dutta.
 Unauthorized copying, reproduction, or redistribution is prohibited.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
