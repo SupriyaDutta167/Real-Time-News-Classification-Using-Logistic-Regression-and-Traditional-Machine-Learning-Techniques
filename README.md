@@ -75,3 +75,5 @@ In today’s digital age, the sheer volume of online news makes manual classific
 
 ---
 
+© 2025 Supriya Dutta. All rights reserved.
+This project is developed and maintained by Supriya Dutta.
